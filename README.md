@@ -30,7 +30,7 @@
 2. Click on Update Global Config Button and add Your Credentials there.
 3. Click on Save button and then scroll up to top and click on back button beside Global Setting as shown below
 
-<img width="901" height="669" alt="Screenshot 2025-08-21 at 3 41 41 PM" src="https://github.com/user-attachments/assets/85f84c69-a864-43bb-9d67-0b63df42f3be" />
+<img width="894" height="668" alt="Monosnap Webminer 2025-08-21 17-56-13" src="https://github.com/user-attachments/assets/52a96d38-4a47-4fa2-be67-6b049031492a" />
 
 4. Click on "Click here to login" button and login to your salesforce account
 5. After successful Login Come back to app
